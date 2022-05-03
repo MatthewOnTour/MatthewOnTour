@@ -44,3 +44,18 @@ src="https://img.shields.io/twitch/status/bosshero_?logo=twitchsx&style=for-the-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/MatthewOnTour"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<div id="donate-button-container">
+<div id="donate-button"></div>
+<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+<script>
+PayPal.Donation.Button({
+env:'production',
+hosted_button_id:'GKCQTT8XN4M3N',
+image: {
+src:'https://pics.paypal.com/00/s/N2RkYTFiNmItZjVhYi00ZDM5LTkwNjctNGQyNjdkMjFmOWZi/file.PNG',
+alt:'Donate with PayPal button',
+title:'PayPal - The safer, easier way to pay online!',
+}
+}).render('#donate-button');
+</script>
+</div>
