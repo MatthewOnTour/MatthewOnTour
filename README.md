@@ -44,4 +44,4 @@ src="https://img.shields.io/twitch/status/bosshero_?logo=twitchsx&style=for-the-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/MatthewOnTour"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-<a href="https://www.paypalobjects.com/donate/sdk/donate-sdk.js"><img src="https://pics.paypal.com/00/s/N2RkYTFiNmItZjVhYi00ZDM5LTkwNjctNGQyNjdkMjFmOWZi/file.PNG" width="200" /></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=GKCQTT8XN4M3N"><img src="https://pics.paypal.com/00/s/N2RkYTFiNmItZjVhYi00ZDM5LTkwNjctNGQyNjdkMjFmOWZi/file.PNG" width="200" /></a>
